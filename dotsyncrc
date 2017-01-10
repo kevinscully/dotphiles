@@ -20,6 +20,7 @@
 dotsyncrc
 #ack/ackrc
 #aptitude
+bash:.bash_logout
 #bin:bin
 #ctags/ctags
 #cmus
@@ -32,7 +33,7 @@ dotsyncrc
 #gnupg
 #grc
 #input/editrc
-#input/inputrc
+input/inputrc
 #irssi
 #mpd/mpd.conf
 #mercurial/hgrc
